@@ -1,22 +1,4 @@
-        
-
 # Tagup Data Science Exercise
-
-## Getting Started
-
-You will need the following programs available:
-
-- git
-- python3
-- conda ([download/install conda](https://www.anaconda.com/distribution/))
-
-Once these are properly installed and configured, you are ready to begin.  First, you will need to fork this repository, then,
-1. run `conda create -n dschallenge python=3.6.9 numpy pandas scipy scikit-learn matplotlib pytest ipython jupyter`
-2. run `conda activate dschallenge`
-3. execute `jupyter notebook`
-This will open a browser tab to the jupyter interface. Open the data science exercise notebook, and follow the instructions it contains. Those instructions are repeated below for convenience.
-
-## The Exercise
 
 ExampleCo, Inc is gathering several types of data for its fleet of very expensive machines.  These very expensive machines have three operating modes: *normal*, *faulty* and *failed*.   The machines run all the time, and usually they are in normal mode.  However, in the event that the machine enters faulty mode, the company would like to be aware of this as soon as possible.  This way they can take preventative action to avoid entering failed mode and hopefully save themselves lots of money.
 
@@ -40,5 +22,3 @@ A few notes to help:
 5. Don't feel compelled to use all the data if you're not sure how. Feel free
    to focus on data from a single unit if that makes it easier to get started.
 6. Don't hesitate to reach out to datasciencejobs@tagup.io with any questions!
-
-    
