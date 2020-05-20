@@ -8,17 +8,4 @@ You can download the data here: [exampleco_data](https://drive.google.com/open?i
 
 __Your main objective: to develop an automated method to pinpoint the times of fault and failure in this machine__.  Keep in mind that you will be sharing these results with the executives at ExampleCo, so to the best of your ability, try to explain what you are doing, what you've shown, and why you think your predictions are good.
 
-
-A few notes to help:
-1. A good place to start is by addressing the noise due to communication
-   errors.
-2. Feel free to use any libraries you like, or even other programming
-   languages. Your final results should be presented in this notebook, however.
-3. There are no constraints on the techniques you bring to bear, we are curious
-   to see how you think and what sort of resources you have in your toolbox.
-4. Be sure to clearly articulate what you did, why you did it, and how the
-   results should be interpreted. In particular you should be aware of the
-   limitations of whatever approach or approaches you take.
-5. Don't feel compelled to use all the data if you're not sure how. Feel free
-   to focus on data from a single unit if that makes it easier to get started.
-6. Don't hesitate to reach out to datasciencejobs@tagup.io with any questions!
+### ***Tools utilized: Python libraries: pandas, numpy, keras, seaborn.***
