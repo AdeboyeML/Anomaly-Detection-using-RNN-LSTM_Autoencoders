@@ -9,14 +9,15 @@ You can download the data here: [exampleco_data](https://drive.google.com/open?i
 ### Main objective: to develop an automated method to pinpoint the times of fault and failure in this machine.  
 
 
-### Steps Ahead
-Load in Data and necessary libraries
-Data exploration
-Noise Removal using Moving Window Average
-Data Splitting
-Data preparation
-Implementation of LSTM Autoencoder
-Data visualization to pinpoints times of fault and failures (~ to detect anomalies).
+### Steps Taken to accomplish the task:
+
+1. Load in Data and necessary libraries
+2. Data exploration
+3. Noise Removal using Moving Window Average
+4. Data Splitting
+5. Data preparation
+6. Implementation of LSTM Autoencoder
+7. Data visualization to pinpoints times of fault and failures (~ to detect anomalies).
 
 
 ### Building and Implementation of the LSTM Autoencoder Model
