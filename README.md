@@ -41,7 +41,7 @@ The autoencoder is trained to reconstruct data with normal pattern (e.g., normal
 Once training is completed, the reconstruction error is used afterwards as an anomaly score to detect anomaly in future time instance of the data i.e. if the model is given an anomalous sequence of the data in future time that is NOT NORMAL, it may not be able to reconstruct it well and hence would lead to higher reconstruction error compared to the resconstruction errors for the normal sequence. This is reason why we have to assume that the training data is said to be in NORMAL STATE.
 
 
-#### LSTM Autoencoder and reason why we used it;
+#### LSTM Autoencoder;
 
 
 **LSTM (Long Short Term Memory)** is an upgraded Recurrent Neural Network (RNN), a powerful sequence learner with a memory cell and gates that control the information to include, remove and output from the memory cell. The major attribute of LSTM in comparision to RNN is the memory cell that stores long to short term information about input sequence across the timesteps.
